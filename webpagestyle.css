@@ -1,0 +1,67 @@
+
+.majorheaders{
+	text-decoration: underline;
+	color:black;
+	text-align:center;
+}
+
+
+h2{
+	margin:10px;
+}
+
+.TOC{
+	background-color:#00ff7f;
+	color:blue;
+	overflow:hidden;
+	border-radius:25px;
+	margin:25px;
+}
+
+#TOCcolumn1{
+	float:left;
+	background-color:#00ff7f;
+	color:blue;
+	padding-left:50px;
+
+}
+#TOCcolumn2{
+	background-color:#00ff7f;
+	color:blue;
+	float:right;
+	padding-right:30px;
+}
+
+.lesson{
+	background-color:red;
+	border-radius:25px;
+	padding:10px;
+	margin:25px;
+}
+.concept{
+	background-color:#a9a9a9;
+	border-radius:25px;
+	padding:5px;
+	margin:10px;
+
+}
+.concept_title{
+	font-weight:lighter;
+	color:white;
+	font-size:24px;
+	text-align: center;
+}
+
+.concept_description{
+	padding:10px;
+}
+
+#classimages{
+	text-align: center;
+	font-size: 24px
+}
+
+.navigation{
+	text-align: center;
+	font-size: 32px
+}
